@@ -7,6 +7,6 @@ Finns även en länk till hemsidan hostad på en AWS sida.
 [Länk till Styrbasen på AWS](http://robodriver.s3.amazonaws.com/index.html)
 
 
-[Länk till video genomgång av hemsidans uppbyggnad]()
+[Länk till video genomgång av kodens uppbyggnad](https://web.microsoftstream.com/video/fd39fc55-5bb8-4e03-8e59-d27651449fb6)
 
 
