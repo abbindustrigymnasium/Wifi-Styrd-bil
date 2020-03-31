@@ -12,4 +12,7 @@ Finns även en länk till hemsidan hostad på en AWS sida.
 
 [Länk till video genomgång av kodens uppbyggnad](https://web.microsoftstream.com/video/fd39fc55-5bb8-4e03-8e59-d27651449fb6)
 
+## SVG "Bilder" in i CSSen
+Det finns lite olika sätta att göra för att få in svg mönster och bilder i sin hemsida, vissa sidor som [HeroPatterns](https://www.heropatterns.com) och [Svgbackgrounds](https://www.svgbackgrounds.com) då man får färdig css kod som man bara kan lägga in i sin style del.
 
+Använder man vissa andra siter så som [beautifuldingbats](https://beautifuldingbats.com/pattern-generator/ https://css-tricks.com/using-svg/) så måste man konvertera detta och för att lägga in i sin css, detta kan man göra via [detta program](https://yoksel.github.io/url-encoder/).
